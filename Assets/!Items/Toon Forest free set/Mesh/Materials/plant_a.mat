@@ -72,10 +72,10 @@ Material:
     - _Mode: 3
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _ShakeBending: 1
+    - _ShakeBending: 0.482
     - _ShakeDisplacement: 1
     - _ShakeTime: 1
-    - _ShakeWindspeed: 1
+    - _ShakeWindspeed: 0.49
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 0
